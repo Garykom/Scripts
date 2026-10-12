@@ -7,7 +7,7 @@
 Для установки скрипта выполните следующую команду в терминале:
 
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/Garykom/Scripts/main/duck_install.sh && sudo bash duck_install.sh && rm duck_install.sh
+wget -O duck_install.sh https://raw.githubusercontent.com/Garykom/Scripts/main/duck_install.sh && sudo sh duck_install.sh && rm duck_install.sh
 ```
 
 ### Что произойдет при запуске:
